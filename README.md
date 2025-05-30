@@ -1,3 +1,3 @@
 # Bulb Project
-## POO
+## Programación Orientada a Objetos
 ### TecNM en Celaya
